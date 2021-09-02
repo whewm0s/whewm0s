@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @whewm0s
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: You can reach me on Twitter, my user is 'whewm0s'
