@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @whewm0s
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: You can reach me on Twitter, my user is 'whewm0s'
+- 👋 Hi, I’m @whewm0s, but my real name is Marcos
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: You can reach me on Twitter, my username is @krunnmarcos, or email: marcos.isouza@outlook.com
