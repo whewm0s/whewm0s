@@ -1,3 +1,7 @@
+pacientes  = []
+procedimento = 0
+codigo_paciente = 0
+
 class Paciente:
     def __init__(self, codigo, nome, cpf, vacina, data, n_lote):
         self.codigo = codigo
@@ -13,14 +17,7 @@ def imprime_instrucoes():
     print("[3] Para buscar por CPF;")
     print("[4] Para sair.")
 
-
-pacientes  = []
-procedimento = 0
-
-codigo_paciente = 0
-
 def cadastrar_paciente():
-        
         nome_paciente = input("Informe o nome do paciente: ")
         cpf_paciente = input("Informe o CPF do paciente: ")
         vacina_paciente = input("Informe a vacina aplicada no paciente: ")
